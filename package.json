@@ -1,0 +1,17 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "description": "JavaScript biblioteca regex",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverge"  
+    //"echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catharina Chaves",
+  "license": "ISC",
+  "bin":{
+    "md-links": "cli.js"
+  }
+}
