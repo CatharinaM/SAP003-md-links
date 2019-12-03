@@ -345,3 +345,6 @@ Para esse projeto recomendamos o uso de [expressões regulares
 * [ ] Os testes unitários devem cobrir no mínimo 99,9% dos statements, functions,
   lines e branches.
 * [ ] Rodar os tests e linter (`npm test`).
+
+
+npm install CatharinaM/SAP003-md-links
